@@ -154,7 +154,7 @@ spring.redis.password=1lqRL8GTps0PMO4a2Ek4MjU5ZHggQZfg
 The API integrates Gemini AI for generating blog summaries.
 
 ```
-gemini.api.key=AIzaSyALUnjKTRzrctqD8wOQwccHdIKCPCZhR4g
+gemini.api.key=AIzaSyALUnjKTRzrctqD8wOQwccHdIK******
 ```
 
 ## Entity: Blog
