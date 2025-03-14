@@ -126,9 +126,9 @@ This project uses MySQL hosted on **Railway**. Below are the database connection
 **Database Connection:**
 
 ```
-spring.datasource.url=jdbc:mysql://root:dPdXjZRAutdqNBLzvAmyZPMLaarNaFLm@tramway.proxy.rlwy.net:55144/railway
+spring.datasource.url=jdbc:mysql://root:dPdXjZRAutdqNBLz*****ZPMLaarNaFLm@tramway.proxy.rlwy.net:55144/railway
 spring.datasource.username=root
-spring.datasource.password=dPdXjZRAutdqNBLzvAmyZPMLaarNaFLm
+spring.datasource.password=dPdXjZRAu****NBLzvAmyZPMLaarNaFLm
 ```
 
 **JPA Configuration:**
@@ -146,7 +146,7 @@ The application uses Redis for caching to improve performance and reduce databas
 ```
 spring.redis.host=redis-service
 spring.redis.port=6379
-spring.redis.password=1lqRL8GTps0PMO4a2Ek4MjU5ZHggQZfg
+spring.redis.password=1lqRL8GTps0PMO***Ek4MjU5ZHggQZfg
 ```
 
 ## AI Integration (Gemini API)
