@@ -106,7 +106,7 @@ This API allows users to create, read, update, and delete blog posts. It also pr
 
 Swagger is integrated for API documentation and testing. **No authentication is required** to access the Swagger UI.
 
-**Swagger UI URL:** [http://localhost:8081/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html)
+**Swagger UI URL:** [/swagger-ui/index.html](/swagger-ui/index.html)
 
 ## JWT Authentication
 
